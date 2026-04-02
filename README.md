@@ -20,7 +20,7 @@ O foco da aplicação está na organização de dados dinâmicos e na persistên
 
 * **Linguagem Back-end:** PHP (Nativo)
 * **Front-end:** HTML5, CSS3, JavaScript
-* **Banco de Dados:** MySQL (MariaDB)
+* **Banco de Dados:** MySQL 
 * **Paradigma:** Desenvolvimento Web Estruturado com integração PDO.
 
 ## Estrutura de Arquivos
