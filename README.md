@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Hóspedes 
 
-Projeto acadêmico desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, orientado pelo professor **Gustavo Risseti**.
+Projeto acadêmico desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas.
 
 ## Sobre o Projeto
 
