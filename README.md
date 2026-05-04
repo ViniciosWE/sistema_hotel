@@ -23,6 +23,11 @@ O foco da aplicação está na organização de dados dinâmicos e na persistên
 * **Banco de Dados:** MySQL 
 * **Paradigma:** Desenvolvimento Web Estruturado com integração PDO.
 
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT.  
+Consulte o arquivo [LICENSE](LICENSE.txt) para mais informações.
+
 ## Estrutura de Arquivos
 
 O projeto está organizado para separar as responsabilidades de visualização e lógica:
