@@ -14,14 +14,12 @@ O foco da aplicação está na organização de dados dinâmicos e na persistên
 * **Controle de Hospedagem:** Registro de informações de viagem, como país de origem, previsão de estadia e companhias aéreas utilizadas.
 * **Consultas Dinâmicas:** Busca de hóspedes e estadias através do CPF com preenchimento automático de campos para edição.
 * **CRUD Completo:** Interfaces dedicadas para listar, editar e excluir tanto hóspedes quanto registros de hospedagem.
-* **Interface Responsiva:** Estilização moderna com temas escuros e transições suaves para melhor experiência do usuário.
 
 ## Tecnologias Utilizadas
 
 * **Linguagem Back-end:** PHP (Nativo)
 * **Front-end:** HTML5, CSS3, JavaScript
 * **Banco de Dados:** MySQL 
-* **Paradigma:** Desenvolvimento Web Estruturado com integração PDO.
 
 ## Licença
 
